@@ -18,9 +18,9 @@ Sukurkite paprastą duomenų tvarkymo programą (Geriausia python, duomenims gal
 Kiekvieną iš šių žingsnių turi būti galimybė paleisti nepriklausomai, paleidžiant programą su atitinkamais argumentais, jie identifikuotų kurį programos žingsnį reikia vykdyti.
 
 
-(Nebūtina dalis)Bonus taškai už:
-	- Bent keli Unit testai (tam gali būti naudojamas bet koks framework'as).
-	- Galimybė importuoti ir saugoti .parquet formato duomenis. Pavyzdinis .parquet failas turėtų būti pridėtas prie kodo.
+(Nebūtina dalis)Bonus taškai už:  
+	- Bent keli Unit testai (tam gali būti naudojamas bet koks framework'as).  
+	- Galimybė importuoti ir saugoti .parquet formato duomenis. Pavyzdinis .parquet failas turėtų būti pridėtas prie kodo.  
 	- Galimybė pakeisti duomenų tvarkymo taisyklės tiesiogiai nekeičiant kodo.
 
 
